@@ -19,4 +19,8 @@ Tambien como describimos en el documento de la arquitectura hicimos uso de una b
 
 ![image](https://github.com/user-attachments/assets/067630cd-9172-4108-a960-1fd493832b87)
 
+A continuacion se muestra que se implementaron las tablas en MySQL donde se aplicara el modelo Entidad-Relacion de la base de datos, donde se guardaran la informacion necesaria para el software, una vista de las tablas que se crearon y un poco lo que contiene algunas de ellas se muestra la siguiente imagen en donde se hara el registro de los datos ingresados desde el software.
+
+![image](https://github.com/user-attachments/assets/e9d2ec11-dfd2-4be3-bd00-f114dc8c84d9)
+
 
