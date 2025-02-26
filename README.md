@@ -13,7 +13,7 @@ Primero que nada para realizar la implementacion del software, se modelo por med
 
 Se puede visualizar esta implementacion de clases en la carpeta que se referencia a continuacion.
 
-[Implementacion del software]()
+[Implementacion del software](https://github.com/Medina14Manuel/Meta2.31/tree/main/MiGuru)
 
 Tambien como describimos en el documento de la arquitectura hicimos uso de una base de datos que fue diseña en MySQL en donde se dara la alta de los registros capturados por el software, el modelo relacional tomado como apoyo para el desarrollo de las tablas usada en la base de datos, el modelo relacional utilizado es el siguiente
 
